@@ -19,6 +19,8 @@ public class Main {
         System.out.println("고쪽이");
         System.out.println("배그");
 
+        System.out.println("수업 후 배그 시작");
+
 
 
     }
